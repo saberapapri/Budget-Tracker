@@ -1,0 +1,9 @@
+/* Example styles */
+.admin-header {
+    background-color: #4CAF50; /* Green header */
+    color: white;
+}
+
+.form-row {
+    margin-bottom: 20px; /* Space between form rows */
+}
